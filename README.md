@@ -8,3 +8,5 @@ Day 2 - Setting up Spark on Google Collab - Download JDK, setup Environment path
 Day 3 - Get familiar with Apache Spark Architectures
 
 Day 4 - Apache Spark Deployment Options
+
+Day 5 - Getting started with Apache Spark's core Data Structure
