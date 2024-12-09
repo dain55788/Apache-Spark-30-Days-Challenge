@@ -10,3 +10,9 @@ Day 3 - Get familiar with Apache Spark Architectures
 Day 4 - Apache Spark Deployment Options
 
 Day 5 - Getting started with Apache Spark's core Data Structure
+
+Day 6 - Transformations and Actions in PySpark
+
+Day 7 - Narrow and Wide Transformations
+
+Day 8 - Tasks, Jobs and Stages in PySpark
